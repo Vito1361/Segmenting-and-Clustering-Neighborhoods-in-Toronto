@@ -8,3 +8,5 @@ This notebook is part of the IBM capstone project for clustering and segmentatio
 ![image](https://user-images.githubusercontent.com/75917531/109376538-c02e1e80-788a-11eb-9601-d17be7725576.png)
 The second map contains the clusters of data using the KMeans ML algorithm.
 ![image](https://user-images.githubusercontent.com/75917531/109376560-eb187280-788a-11eb-80e2-5c406a82d898.png)
+To view the jupyter notebook:
+https://notebooks.gesis.org/binder/jupyter/user/ipython-ipython-in-depth-ahzoshef/notebooks/binder/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto.ipynb#All-tasks-are-implemented-in-the-same-notebook-for-the-ease-of-evaluation.
